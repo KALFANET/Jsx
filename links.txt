@@ -1,0 +1,13 @@
+📌 רשימת קישורים לקבצים במאגר:
+https://github.com/KALFANET/Jsx/blob/main/agent-interface.tsx
+https://github.com/KALFANET/Jsx/blob/main/client-ui-design.tsx
+https://github.com/KALFANET/Jsx/blob/main/client-ui.css
+https://github.com/KALFANET/Jsx/blob/main/devices-management-fixed.tsx
+https://github.com/KALFANET/Jsx/blob/main/electron-client.js
+https://github.com/KALFANET/Jsx/blob/main/git.sh
+https://github.com/KALFANET/Jsx/blob/main/main-client.tsx
+https://github.com/KALFANET/Jsx/blob/main/network-manager-fixed.tsx
+https://github.com/KALFANET/Jsx/blob/main/performance-monitor.tsx
+https://github.com/KALFANET/Jsx/blob/main/software-management-fixed.tsx
+https://github.com/KALFANET/Jsx/blob/main/system-settings-fixed.tsx
+https://github.com/KALFANET/Jsx/blob/main/user-management-fixed.tsx
