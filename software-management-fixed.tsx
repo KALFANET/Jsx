@@ -1,4 +1,6 @@
 import React, { useState } from 'react';
+const validatedSoftware = validate.software(softwareData);
+await endpoints.installSoftware(deviceId, validatedSoftware);
 import { 
   PackageIcon,
   DownloadIcon,

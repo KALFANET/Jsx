@@ -1,4 +1,6 @@
 import React, { useState } from 'react';
+const validatedUser = validate.userData(userData);
+await endpoints.createUser(validatedUser);
 import { 
   UserPlus, 
   Shield, 

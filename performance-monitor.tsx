@@ -1,4 +1,6 @@
 import React, { useState } from 'react';
+const metrics = useSystemStore(state => state.metrics);
+await endpoints.getPerformanceMetrics(deviceId);
 import { 
   CpuIcon, 
   HardDriveIcon, 

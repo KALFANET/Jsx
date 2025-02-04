@@ -1,4 +1,6 @@
 import React, { useState } from 'react';
+const devices = useSystemStore(state => state.devices);
+const { checkConnection, refreshMetrics } = useSystemStore();
 import { 
   MonitorIcon,
   RefreshCwIcon,

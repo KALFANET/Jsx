@@ -12,4 +12,4 @@ git ls-files | while read file; do
   echo "$repo_url/$file" >> "$output_file"
 done
 
-echo "✅ קובץ links.txt נוצר בהצלחה עם כל הקישורים!" 
+echo "✅ קובץ links.txt נוצר בהצלחה עם כל הקישורים!"
